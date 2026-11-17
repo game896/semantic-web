@@ -1,0 +1,18 @@
+# Seed authors of the EMPG case study (OpenAlex ids). The CRIS loads their works and everything linked to them.
+authors:
+  - name: Roger Ratcliff
+    openalex_id: A5024018318
+  - name: Jerome R. Busemeyer
+    openalex_id: A5025154104
+  - name: Eric-Jan Wagenmakers
+    openalex_id: A5063079579
+  - name: Scott D. Brown
+    openalex_id: A5074709577
+  - name: Andrew Heathcote
+    openalex_id: A5062360625
+  - name: Richard M. Shiffrin
+    openalex_id: A5053621830
+  - name: Jeffrey N. Rouder
+    openalex_id: A5041903789
+  - name: Trisha Van Zandt
+    openalex_id: A5034350948
